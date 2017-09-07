@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Cult of the DamnedTest.unity
+  isLoaded: 1
+  isActive: 1
